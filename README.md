@@ -22,5 +22,5 @@ You must **download it manually** and place it in your project folder before run
 
 ## Dataset Links
 - Brown Corpus (NLTK): https://www.nltk.org/nltk_data/
-- GloVe 6B dataset: https://nlp.stanford.edu/data/glove.6B.zip
+- GloVe 6B dataset: [[https://nlp.stanford.edu/projects/glove](https://nlp.stanford.edu/projects/glove)](https://nlp.stanford.edu/projects/glove/)
 
